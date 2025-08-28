@@ -20,7 +20,7 @@ The dataset is uploaded to ensure **reproducibility** of all experiments.
 
 ### Files and Notebooks  
 
-1. **`Mental Health in Tech - EDA.ipynb`**  
+1. **`Mental Health in Tech - EDA(1).ipynb`**  
    - Contains the **Exploratory Data Analysis (EDA)**.  
    - Includes descriptive statistics, visualisations of key demographic and workplace variables, and initial insights into treatment-seeking behaviour.  
    - Provides the foundation for understanding data distribution, handling missing values, and informing preprocessing decisions.  
