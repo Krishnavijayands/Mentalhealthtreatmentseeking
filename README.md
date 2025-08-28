@@ -9,9 +9,9 @@ The study is based on the **Open Sourcing Mental Illness (OSMI) 2014 Mental Heal
 
 Three research questions structured the investigation:  
 
-- **RQ1** – Which model provides the best predictive performance for treatment-seeking behaviour (Logistic Regression, Random Forest, Neural Network)?  
-- **RQ2** – Does reducing the feature space to the top fifteen predictors (via permutation importance) preserve predictive performance while improving interpretability?  
-- **RQ3** – Which subgroups are most often misclassified, and what does this reveal about potential fairness issues?  
+- **RQ1** - Which model provides the best predictive performance for treatment-seeking behaviour (Logistic Regression, Random Forest, Neural Network)?  
+- **RQ2** - Does reducing the feature space to the top fifteen predictors (via permutation importance) preserve predictive performance while improving interpretability?  
+- **RQ3** - Which subgroups are most often misclassified, and what does this reveal about potential fairness issues?  
 
 ## Repository Structure  
 
