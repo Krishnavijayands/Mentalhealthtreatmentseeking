@@ -1,5 +1,4 @@
 # Predicting Treatment-Seeking Behaviour for Workplace Mental Health Using Machine Learning  
-
 ## Project Overview  
 This repository contains the code, results, and documentation for my MSc Data Science dissertation project at the **University of Hertfordshire**.  
 
@@ -9,15 +8,13 @@ The study is based on the **Open Sourcing Mental Illness (OSMI) 2014 Mental Heal
 
 Three research questions structured the investigation:  
 
-- **RQ1** - Which model provides the best predictive performance for treatment-seeking behaviour (Logistic Regression, Random Forest, Neural Network)?  
+- **RQ1** - Which model provides the best predictive performance for treatment-seeking behaviour among Logistic Regression, Random Forest and Neural Network?  
 - **RQ2** - Does reducing the feature space to the top fifteen predictors (via permutation importance) preserve predictive performance while improving interpretability?  
 - **RQ3** - Which subgroups are most often misclassified, and what does this reveal about potential fairness issues?  
-
 ## Repository Structure  
 
 This repository contains the **full workflow** for the dissertation project.  
 The dataset is uploaded to ensure **reproducibility** of all experiments.  
-
 ### Files and Notebooks  
 
 1. **`Mental Health in Tech - EDA(1).ipynb`**  
@@ -39,9 +36,7 @@ The dataset is uploaded to ensure **reproducibility** of all experiments.
 - **RQ1:** Logistic Regression and Random Forest outperformed the Neural Network at default thresholds.  
 - **RQ2:** Reducing to the top 15 features preserved predictive performance and improved interpretability.  
 - **RQ3:** Subgroup analysis revealed fairness concerns, with misclassifications concentrated among males, employees in large companies, and those with unclear workplace benefits.  
-
 ## Licence  
-
 This repository uses the **OSMI Mental Health in Tech Survey (2014)** dataset, provided under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** licence.  
 
 
